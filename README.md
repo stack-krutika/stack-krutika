@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
+### Introduction
+
+I am Krutika Patel, IT engineering student. Currently pursuing my bacherlor's and enthusiastic about learning programming and devleopment.
+
+- 🔭 I’m currently working on programming skills
+- 🌱 I’m currently learning C,C++ & Web dev
+- 👯 I’m looking to collaborate on documenting & basic projects
+- 📫 How to reach me: krutika8114@gmail.com
+  
 <!--
 **stack-krutika/stack-krutika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
